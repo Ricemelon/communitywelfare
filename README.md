@@ -1,1 +1,1 @@
-# communitywelfare
+This is the initial commit for Community Welfare project
