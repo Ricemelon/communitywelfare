@@ -1,0 +1,19 @@
+{
+  "name": "communitywelfare",
+  "version": "1.0.0",
+  "description": "Community Welfare project managed by CS+SG at UNC Chapel Hill",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cssgunc/communitywelfare.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cssgunc/communitywelfare/issues"
+  },
+  "homepage": "https://github.com/cssgunc/communitywelfare#readme"
+}
